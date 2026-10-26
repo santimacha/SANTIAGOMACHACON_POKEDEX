@@ -1,0 +1,2 @@
+# SANTIAGOMACHACON_POKEDEX
+.md de el parcial
